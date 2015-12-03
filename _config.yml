@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Finn Henry's student blog
 locale:           en_US
 url:
 
@@ -26,10 +26,10 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Finn Henry
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
+  bio: "I am a student in challoners grammar school, I am in year 7 so this is my first year at challoners."
+  email: finn.henry@challoners.org
   disqus-shortname:
   twitter: #username
   facebook: #username
